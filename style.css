@@ -1,0 +1,50 @@
+html,body{
+    height: 100%;
+}
+
+
+body {
+    font-family: "Times New Roman", Times, serif;
+    
+   
+   /* text-align: left; /* Center align all text */
+   background-image: url('https://dynomapper.com/images/Virtual_Reality.jpg');
+    background-repeat: no-repeat;
+    background-size:auto 100%;
+    background-position: center;
+}
+
+.container {
+    text-align: left; /* Reset text-align for container content */
+    color: #f1eee1;
+    border: 10px;
+ 
+}
+h1 {
+    color: #e8c743;
+    text-align:center;
+    font-size: 50px
+    
+}
+h2 {
+    color: #e8c743;
+    text-align:left;
+    
+}
+
+
+.info {
+    margin-bottom: 20px;
+    text-align: left; /* Center align text within .info */
+}
+
+.info p {
+   
+    text-align: left; /* Center align text within .info */
+    color: #f3eedb;
+}
+
+.info p span {
+    font-weight: bold;
+    text-align: left; /* Center align text within .info */
+}
